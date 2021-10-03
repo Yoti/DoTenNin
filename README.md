@@ -26,5 +26,5 @@ DoTenNin -- однокнопочная утилита для создания с
 * Исправлена обработка минимальной высоты окна
 * Копирование reboot_payload.bin как fusee.bin
 * Добавление пользовательских файлов поверх:
-  * bootloader\ini\*.ini
-  * bootloader\res\*.bmp
+  * bootloader\ini\\*.ini
+  * bootloader\res\\*.bmp
