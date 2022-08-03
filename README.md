@@ -8,7 +8,7 @@ DoTenNin -- однокнопочная утилита для создания с
 * Автоматическая загрузка последней релизной версии [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM)
 * Опциональная загрузка последней релизной версии [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)
 * Автоматическая загрузка последней релизной версии [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
-* Автоматическая загрузка последней доступной версии [sig. patches](https://github.com/ITotalJustice/patches)
+* Автоматическая загрузка последней доступной версии [sig. patches](https://www.google.com/)
 * Автоматическая загрузка последней релизной версии [DBI](https://github.com/rashevskyv/dbi)
 
 ***Дополнительные возможности:***
@@ -19,6 +19,11 @@ DoTenNin -- однокнопочная утилита для создания с
 ***Внешний вид текущей версии:***
 
 ![image.png](image.png?raw=true "image.png")
+
+***Список изменений (v20220803):***
+* Исправлена загрузка Sig. Patches
+* Добавление пользовательских файлов поверх:
+  * switch\DBI\dbi.config
 
 ***Список изменений (v20220120):***
 * Исправлена загрузка Sig. Patches
