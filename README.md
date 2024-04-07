@@ -5,7 +5,7 @@ DoTenNin -- однокнопочная утилита для создания с
 * Автоматическая загрузка последней релизной версии [hekate](https://github.com/CTCaer/hekate)
 * Копирование настроенного файла `hekate_ipl.ini` из папки с программой
 * Создание из `hekate.bin` файлов `boot.dat` и `payload.bin` для консолей с чипом
-* Автоматическая загрузка последней релизной версии [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM)
+* Автоматическая загрузка последней релизной версии [Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM)
 * Опциональная загрузка последней релизной версии [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)
 * Автоматическая загрузка последней релизной версии [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
 * Автоматическая загрузка последней доступной версии [sig. patches](https://www.google.com/)
@@ -19,6 +19,12 @@ DoTenNin -- однокнопочная утилита для создания с
 ***Внешний вид текущей версии:***
 
 ![image.png](image.png?raw=true "image.png")
+
+***Список изменений (v20240407):***
+* Исправлена загрузка Lockpick_RCM
+* Добавление пользовательских файлов поверх:
+  * atmosphere\exefs_patches\dtn_custom\\*.ips
+  * atmosphere\kip_patches\dtn_custom\\*.ips
 
 ***Список изменений (v20221019):***
 * Исправлена загрузка с GitHub
